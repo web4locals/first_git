@@ -33,3 +33,30 @@ List of basic GIT commands
   
 
 #### Adding a new repository
+1.  Before you start make sure you git email is the same as your github account
+
+*   To change git username `git config --global user.name "FIRST_NAME LAST_NAME"`
+*   To change git email `git config --global user.email "MY_NAME@example.com"`
+*   To check your git details `cat .git/config`
+  
+
+3.  Create a repository on the Github website
+  
+5.  in git you can create a new repo or push existing one over from git
+
+*   #### Create from git
+    
+      
+    `echo "*MyProjectName*" >> README.md`  
+    `git init`  
+    `git commit -m "first commit"`  
+    `git remote add origin *HTTPS or SSH address(username.github.com/*MyProjectName*.git)`
+  
+*   #### Push an existing Project to Github from git
+    
+      
+    
+`git remote add origin *HTTPS or SSH address(username.github.com/*MyProjectName*.git)`  
+`git push -u origin`
+
+### Commands
