@@ -27,12 +27,14 @@ List of basic GIT commands
 *   `git show HEAD` Shows the latest vs last changes in the files
 *   `git checkout HEAD *filename*`Will restore back to the last changes
 *   if you made a mistake `git checkout *filename*` to undo your mistake
+*   A short way to add and commit at the same time `git commit -a -m "my awesome mod"`
 
 ### Git Hub commands
 
   
 
 #### Adding a new repository
+
 1.  Before you start make sure you git email is the same as your github account
 
 *   To change git username `git config --global user.name "FIRST_NAME LAST_NAME"`
@@ -60,3 +62,12 @@ List of basic GIT commands
 `git push -u origin`
 
 ### Commands
+
+*   `git clone *remote location name* *clone name*` clones the github repo
+*   `git fetch` gets updates from your github repo
+*   `git push` is used to upload local repository content to a remote repo. also if you add `-u` it uplinks your local files
+*   `git pull`is used to download content from remote repo
+
+
+*   ### More to come as I learn more
+*   #### Also some of the infomation on here may be slightly incorrect I will fix later.
