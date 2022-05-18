@@ -1,0 +1,12 @@
+/* RESET Browser Default */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* Main Styling */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.7em;
+}
