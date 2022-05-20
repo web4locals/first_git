@@ -39,7 +39,7 @@ List of basic GIT commands
 
 *   To change git username `git config --global user.name "FIRST_NAME LAST_NAME"`
 *   To change git email `git config --global user.email "MY_NAME@example.com"`
-*   To check your git details `cat .git/config`
+*   To check your git details `git config --list`
   
 
 3.  Create a repository on the Github website
