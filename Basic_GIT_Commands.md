@@ -73,7 +73,4 @@ List of basic GIT commands
 *   #### Also some of the infomation on here may be slightly incorrect I will fix later.
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/web4locals/first_git/raw/main/assets/images/DARKSIDE.png">
-  <img alt="Shows the user prefers light mode" src="https://github.com/web4locals/first_git/raw/main/assets/images/LIGHTSIDE.png">
-</picture>
+
