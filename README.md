@@ -5,7 +5,7 @@ For  now here is a markdown cheat sheet: [Link](https://github.com/adam-p/markdo
 
 here is my webpage [check it out!](https://web4locals.github.io/first_git/) ..... I'm just testing git pages for now.
 
-## Try changing your github theme from light to dark or dark to light. Then comeback and check this README.md again! [ok open my settings!](https://github.com/settings/appearance)
+## Try changing your github theme from light to dark or dark to light. Then comeback and check this README.md again! [open settings!](https://github.com/settings/appearance)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/web4locals/first_git/raw/main/assets/images/DARKSIDE.png">
