@@ -67,7 +67,13 @@ List of basic GIT commands
 *   `git fetch` gets updates from your github repo
 *   `git push` is used to upload local repository content to a remote repo. also if you add `-u` it uplinks your local files
 *   `git pull`is used to download content from remote repo
-
+*   `git log --graph --decorate --oneline --all` to check on all progresses made in the branches: 
 
 *   ### More to come as I learn more
 *   #### Also some of the infomation on here may be slightly incorrect I will fix later.
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
