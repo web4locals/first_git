@@ -9,7 +9,7 @@ here is my webpage [check it out!](https://web4locals.github.io/first_git/) ....
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/web4locals/first_git/raw/main/assets/images/DARKSIDE.png" width="200" height="250">
-  <img alt="Shows the user prefers light mode" src="https://github.com/web4locals/first_git/raw/main/assets/images/LIGHTSIDE.png">
+  <img alt="Shows the user prefers light mode" src="https://github.com/web4locals/first_git/raw/main/assets/images/LIGHTSIDE.png"  width="200" height="250">
 </picture>
 
 ## What side of the force are you on? 
