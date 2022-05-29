@@ -8,12 +8,12 @@ here is my webpage [check it out!](https://web4locals.github.io/first_git/) ....
 ## Try changing your github theme from light to dark or dark to light. Then comeback and check this README.md again! [open settings!](https://github.com/settings/appearance)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/web4locals/first_git/raw/main/assets/images/DARKSIDE.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/web4locals/first_git/raw/main/assets/images/DARKSIDE.png" width="200" height="225">
   <img alt="Shows the user prefers light mode" src="https://github.com/web4locals/first_git/raw/main/assets/images/LIGHTSIDE.png">
 </picture>
 
 ## What side of the force are you on? 
 
 
-https://user-images.githubusercontent.com/105700512/170021656-f9032a92-39dc-4dcf-bcc0-1b11fe968ca2.mp4
+<source media= https://user-images.githubusercontent.com/105700512/170021656-f9032a92-39dc-4dcf-bcc0-1b11fe968ca2.mp4 width="200" height="225 >
 
