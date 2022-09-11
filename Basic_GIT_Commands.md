@@ -70,7 +70,7 @@ List of basic GIT commands
 *   `git log --graph --decorate --oneline --all` to check on all progresses made in the branches: 
 
 *   ### More to come as I learn more
-*   #### Also some of the infomation on here may be slightly incorrect I will fix later.
+*   #### Also some of the information on here may be slightly incorrect I will fix later.
 
 
 
